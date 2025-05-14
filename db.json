@@ -1,11 +1,12 @@
-{
-  "posts": [
     {
-      "id": 1,
-      "title": "hello"
+        "patchId": 34672698,
+        "patchCategory": "MAA-Critical-Recommended",
+        "homeType": [
+            "DB","GI"
+        ],
+        "ruList": [
+            "19"
+        ],
+        "criteria": null,
+        "includedInRu": null
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
